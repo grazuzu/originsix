@@ -26,16 +26,19 @@
 OriginSIx é o layout de uma landing page responsiva e personalizável para o salão de beleza BeautySalon.
 
 ## 🎨 Layout
-Para acessar o Layout da aplicação, você primeiramente deve ter uma conta criada na plataforma do Figma
+Para acessar o Layout da aplicação, você primeiramente deve ter uma conta criada na plataforma do Figma.
 <details>
   <summary>Criando uma conta no Figma</summary></br>Para isso, você pode <a href="https://www.figma.com/signup">clicar aqui</a>.
 </details>
 <details>
-  <summary>Acessando o Layout</summary></br>Para duplicar os layouts, basta você clicar nos links abaixo e clicar no botão Duplicate no canto superior direito. Ele adicionará uma cópia do Layout aos seus rascunhos do Figma.
-     $<a href="https://www.figma.com/community/file/1009807319507822993">Layout Figma<a/>
-  
+  <summary>Acessando o Layout</summary></br>Para duplicar os layouts, basta você <a href="https://www.figma.com/community/file/1009807319507822993">clicar aqui</a> e clicar no botão Duplicate no canto superior direito. Ele adicionará uma cópia do Layout aos seus rascunhos do Figma.
 </details>
 
 ## 🧩 Desafios
 
 ## 📜 Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+
+---
+
+Feito com ♥ by Rocketseat :wave:
