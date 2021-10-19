@@ -28,10 +28,12 @@ OriginSIx é o layout de uma landing page responsiva e personalizável para o sa
 ## 🎨 Layout
 Para acessar o Layout da aplicação, você primeiramente deve ter uma conta criada na plataforma do Figma
 <details>
-  <summary>Criando uma conta no Figma</summary></br>Para isso, você pode [clicar aqui](https://www.figma.com/signup).
+  <summary>Criando uma conta no Figma</summary></br>Para isso, você pode <a href="https://www.figma.com/signup">clicar aqui</a>.
 </details>
 <details>
   <summary>Acessando o Layout</summary></br>Para duplicar os layouts, basta você clicar nos links abaixo e clicar no botão Duplicate no canto superior direito. Ele adicionará uma cópia do Layout aos seus rascunhos do Figma.
+     $<a href="https://www.figma.com/community/file/1009807319507822993">Layout Figma<a/>
+  
 </details>
 
 ## 🧩 Desafios
