@@ -21,13 +21,19 @@
    * CSS   <br/>
    * HTML   <br/>
    * JavaScript  <br/>
-   
-<a href="Tecnologias.html">Tecnologias</a>
+
 ## 📌 Projeto
 OriginSIx é o layout de uma landing page responsiva e personalizável para o salão de beleza BeautySalon.
 
 ## 🎨 Layout
-  
+Para acessar o Layout da aplicação, você primeiramente deve ter uma conta criada na plataforma do Figma
+<details>
+  <summary>Criando uma conta no Figma</summary></br>Para isso, você pode [clicar aqui](https://www.figma.com/signup).
+</details>
+<details>
+  <summary>Acessando o Layout</summary></br>Para duplicar os layouts, basta você clicar nos links abaixo e clicar no botão Duplicate no canto superior direito. Ele adicionará uma cópia do Layout aos seus rascunhos do Figma.
+</details>
+
 ## 🧩 Desafios
 
 ## 📜 Licença
