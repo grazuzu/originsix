@@ -1,4 +1,8 @@
-# OriginSix
+**OriginSix**
+
+---
+
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -20,20 +24,20 @@
 
 O projeto utilizou as seguintes tecnologias:
   
-   - CSS
-   - HTML 
-   - JavaScript
+  - CSS
+  - HTML 
+  - JavaScript
   
 Bibliotecas
   
-    - [Google Fonts](https://fonts.google.com/)
-    - [SwipeJS](https://github.com/nolimits4web/Swiper)
-    - [ScrollRevel](https://scrollrevealjs.org)
+  - [Google Fonts](https://fonts.google.com/)
+  - [SwipeJS](https://github.com/nolimits4web/Swiper)
+  - [ScrollRevel](https://scrollrevealjs.org)
 
 Utilitários
 
-    - [randomuser.me](https://randomuser.me/photos)
-    - [IconMoon](https://icomoon.io/app/#/select)
+  - [randomuser.me](https://randomuser.me/photos)
+  - [IconMoon](https://icomoon.io/app/#/select)
 
 ## 📌 Projeto
 OriginSIx é o layout de uma landing page responsiva e personalizável para o salão de beleza BeautySalon.
